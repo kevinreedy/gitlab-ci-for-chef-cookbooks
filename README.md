@@ -1,0 +1,1 @@
+# gitlab-ci-for-chef-cookbooks
